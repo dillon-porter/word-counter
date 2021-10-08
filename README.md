@@ -5,4 +5,5 @@ The code to ignore the 'spacebar' to count as a word I split the value to make i
  - if ( words[i] != "" ) {
             wordCount += 1
         }
-        
+ 
+ Demo: https://dillon-porter.github.io/word-counter/
